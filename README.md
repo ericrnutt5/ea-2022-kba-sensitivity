@@ -16,5 +16,8 @@ We are using earth-analytics-enviornment provided and maintained by Earth Lab, U
 * Shapefile with a network of 7 sq. mile hexagons covering North America, also provided by NatureServe.
 * Processed shapefiles for each indiviadual ecosystem, contain network of hexes showing spatial distribution of an ecosystem, unique hex IDs, and quantity of raster cells (of the initial dataset) which got a hexagon overlaps.
 
+# Data Storage
+* Currently data is stored in our shared Google Drive. User will have to download data and save it in earth-analytics/data/natureserve
+
 
 # Workflow
