@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220411</CreaDate><CreaTime>20063500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20220410" Time="175448">RasterToPolygon Landfire_EVT_2020.tif E:\Svetlana\natureserve\data\EVT.shp SIMPLIFY EVT_Name_1 SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
