@@ -6,11 +6,11 @@ Systematic Conservation Planning is a field of research that uses GIS and Python
 
 Scientists bring together collected data from a variety of biological and ecological sources and execute an iterative workflow to define areas that successfully meet the required criteria. These data sources can include:
 
-species populations,
-vegetative land cover,
-nesting sites,
-seasonal feeding patterns
-or even the location of historic cultural heritage sites.
+* species populations,
+* vegetative land cover,
+* nesting sites,
+* seasonal feeding patterns
+* or even the location of historic cultural heritage sites.
 
 We will perform a sensitivity analysis of the current thresholds set by the IUCN, looking to see what KBAs can be found for each ecosystem type at 100%, 75%, 50% and 25% of the current thresholds. Results of the analysis are shared with key stakeholders and decision makers, enabling them to efficiently direct limited resources towards solutions with the lowest cost and greatest chance for long term ecological success.
 
@@ -22,13 +22,13 @@ Perhaps a lower threshold would more effectively trigger KBA identification in l
 We are using earth-analytics-enviornment provided and maintained by Earth Lab, University of Colorado. Please follow this [link](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/) for installation instructions.
 
 # Required Tools and Packages
-ArcGIS and ArcMarxan Toolbox, Version 2.0.2; Available at https://aproposinfosystems.com/
-and/or QGIS and QMarxan Toolbox, Version 2.0.1
-matplotlib
-numpy
-geopandas
-xarray
-rioxarray
+* ArcGIS and ArcMarxan Toolbox, Version 2.0.2; Available at https://aproposinfosystems.com/
+* and/or QGIS and QMarxan Toolbox, Version 2.0.1
+* matplotlib
+* numpy
+* geopandas
+* xarray
+* rioxarray
 
 # Data
 * Raster dataset featuring US ecosystems at 30 m spatial resolution, provided by NatureServe.
