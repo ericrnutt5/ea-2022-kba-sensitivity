@@ -55,4 +55,4 @@ We are using earth-analytics-enviornment provided and maintained by Earth Lab, U
 # Workflow
 
 
-![Workflow](https://github.com/S-Kur/ea-2022-kba-sensitivity/blob/main/assests/figures/KBA_Analysis_Workflow.jpg)
+![Workflow](https://github.com/ericrnutt5/ea-2022-kba-sensitivity/blob/main/assests/figures/KBA_Analysis_Workflow.jpg)
